@@ -1,7 +1,7 @@
 # Face Recognition Authentication System
 
   Authored by Saeed Asle
- 
+  
 # Description
 
 This project is a face recognition authentication system implemented in Python.
