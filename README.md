@@ -7,7 +7,7 @@
 This project is a face recognition authentication system implemented in Python.
 It uses the face_recognition library for face detection and recognition, cv2 for video capture, pyttsx3 for text-to-speech, and os for file handling.
 The system authenticates users by recognizing their faces and verifying their PINs.
-
+ 
 # Features
 
 The code provides the following features:
